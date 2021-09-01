@@ -9,3 +9,6 @@ A curated list of awesome wireless power transfer resources, and shiny things. I
 ## Coil design
 
 - [Modeling Resonant Coupled Wireless Power Transfer System](https://www.mathworks.com/help/antenna/ug/modeling-resonant-coupled-wireless-power-transfer-system.html) An example from MATLAB.
+
+## System design
+- [IPT-calculator](https://github.com/Wireless-power-transfer/IPT-calculator) This is an online calculator to aid in the design of inductive power transfer systems.
