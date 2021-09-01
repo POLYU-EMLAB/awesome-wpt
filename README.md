@@ -1,5 +1,5 @@
-# awesome-wpt
-A curated list of awesome wireless power transfer resources, and shiny things. Inspired by awesome-... stuff.
+# awesome-WPT
+A curated list of awesome "wireless power transfer (WPT)" resources, and shiny things. Inspired by awesome-... stuff.
 
 ## Methods
 - [PEEC wiki](https://en.wikipedia.org/wiki/Partial_element_equivalent_circuit) Partial element equivalent circuit method (PEEC) is partial inductance calculation used for interconnect problems from early 1970s which is used for numerical modeling of electromagnetic (EM) properties.
