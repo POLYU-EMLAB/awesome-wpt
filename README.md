@@ -12,3 +12,6 @@ A curated list of awesome "wireless power transfer (WPT)" resources, and shiny t
 
 ## System design
 - [IPT-calculator](https://github.com/Wireless-power-transfer/IPT-calculator) This is an online calculator to aid in the design of inductive power transfer systems.
+- [MIF3](https://github.com/JCCopyrights/MIF3) Matlab Interface For Fast Field Solvers
+
+
